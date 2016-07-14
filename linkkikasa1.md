@@ -144,28 +144,7 @@ Työvälineitä
 *  [Jerry Weinberg](http://www.softwaretestpro.com/Item/4920/)
 *  [Hmm..](http://www.youtube.com/watch?v=XcT4yYu_TTs)
 
-## Standardeja
 
-Linkit tulossa... (googleta)
-
-  * [DO-178b DO-178B:1992. Software Considerations in Airborne Systems and Equipment Certification,
-Requirements and Technical Concepts for Aviation (RTCA SC167)]()
-  * [IEEE 610 IEEE 610.12:1990. Standard Glossary of Software Engineering Terminology.]()
-  * [IEEE 829 IEEE 829:1998. Standard for Software Test Documentation](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?reload=true&punumber=4578271)
-  * [IEEE 1008 IEEE 1008:1993. Standard for Software Unit Testing](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=2599)
-  * [IEEE 1028 IEEE 1028:1997. Standard for Software Reviews and Audits]()
-  * [IEEE 1044 IEEE 1044:1993. Standard Classification for Software Anomalies]()
-  * [IEEE 1219 IEEE 1219:1998. Software Maintenance]()
-  * [ISO 2382/1 ISO/IEC 2382-1:1993. Data processing - Vocabulary - Part 1: Fundamental terms]()
-  * [ISO 8402 ISO 8402: 1994. Quality Management and Quality Assurance Vocabulary]()
-  * [ISO 9000 ISO 9000:2005. Quality Management Systems – Fundamentals and Vocabulary]()
-  * [ISO 9126 ISO/IEC 9126-1:2001. Software Engineering – Software Product Quality – Part 1: Quality
-characteristics and sub-characteristics ]()
-  * [ISO 12207 ISO/IEC 12207:1995. Information Technology – Software Lifecycle Processes ]()
-  * [ISO 14598 ISO/IEC 14598-1:1999. Information Technology – Software Product Evaluation - Part 1:
-General Overview]()
-  * [ISO 15504 ISO/IEC 15504-9: 1998. Information Technology – Software Process Assessment – Part
-9: Vocabulary]()
 
 ## Palvelutuotanto  /ITIL
 
