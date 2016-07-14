@@ -1,3 +1,8 @@
-# DOC001-Working-methods-and-JAMK-IT
+# DOC001-parhaat-kayntanteet
 
-This document is a collection of best practices for you all students and teachers inside JAMK context.
+Tähän repositorioon kerätään oleellisia asioita ja käytänteitä, joista saattaa olla hyötyä.
+
+Tuotetut sivut kannattaa muotoilla MarkDown formaattiin!
+
+
+
