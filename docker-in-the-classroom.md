@@ -14,11 +14,17 @@ Kokeilimme Rancher-tekniikkaa luokka ympäristössä
 
 Kokeilaan voidaanko harjoitustyöitä ajaa ilman ulkopuolista pilvi-infraa
 
+* Tunnusten antaminen samaan pilviresurssiin on hankalaa
+* Administraatio kerros vaatii resursseja
+* Tarve on väliaikainen, mutta joissain tilanteissa suuri
+
+
+
 
 ### Edut
 
-Konekannan tehokkaampi hyödyntäminen
-
+* Konekannan tehokkaampi hyödyntäminen
+* Voidaan luoda kuormitustestaustilanteita
 
 
 ### Linkit
