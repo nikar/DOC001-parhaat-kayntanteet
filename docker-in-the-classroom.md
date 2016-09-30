@@ -15,6 +15,7 @@ Kokeilimme Rancher-tekniikkaa luokka ympäristössä
 Kokeilaan voidaanko harjoitustyöitä ajaa ilman ulkopuolista pilvi-infraa
 
 * Tunnusten antaminen samaan pilviresurssiin on hankalaa
+* Tarvitaan opiskelijan omia resursseja (esim. GitHub)
 * Administraatio kerros vaatii resursseja
 * Tarve on väliaikainen, mutta joissain tilanteissa suuri
 
