@@ -8,11 +8,17 @@
 
 ### Mitä 
 
+Kokeilimme Rancher-tekniikkaa luokka ympäristössä
 
 ### Miksi
 
+Kokeilaan voidaanko harjoitustyöitä ajaa ilman ulkopuolista pilvi-infraa
+
 
 ### Edut
+
+Konekannan tehokkaampi hyödyntäminen
+
 
 
 ### Linkit
