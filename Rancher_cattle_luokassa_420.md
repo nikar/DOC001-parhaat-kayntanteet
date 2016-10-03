@@ -17,6 +17,8 @@ Koneilla ladattiin aikaisemmin tehty image ja käynnistettiin se.
 Virtualboxin network asetuksista on valittava bridged network.
 
 
+### Kuvia
+
 ![] (http://i.imgur.com/ZRxbeRN.jpg)
 
 ![] (http://i.imgur.com/W2SWiaR.jpg)
