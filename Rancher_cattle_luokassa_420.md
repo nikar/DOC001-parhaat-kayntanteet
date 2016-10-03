@@ -1,4 +1,4 @@
-### Rancher virtuualikoiden liittäminen osaksi cattleä!
+### Virtuaalikoiden liittäminen osaksi Rancher cattleä.
 
 
 Työn tarkoituksena oli selvittää voidaanko luokan koneilla liittyä Rancher ympäristöön ja toimivatko ne moitteettomasti.
@@ -15,6 +15,11 @@ Koneisiin kirjauduttiin Vierailija tunnuksilla.
 Koneilla ladattiin aikaisemmin tehty image ja käynnistettiin se.
 
 Virtualboxin network asetuksista on valittava bridged network.
+
+
+### Havaitut ongelmat
+
+Koneet menevät lepotilaan 30min kuluessa viimeisestä komennosta, jolloin yhteys virtuualikoneen ja Rancher masterin välillä katkeaa ja hostit näkyvät reconnecting tilassa. Kun koneille kirjautuu uudestaan sisään niin virtuaalikone saa jälleen yhteyden masteriin. 
 
 
 ### Kuvia
