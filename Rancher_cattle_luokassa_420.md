@@ -1,7 +1,9 @@
 ### Virtuaalikoiden liittäminen osaksi Rancher cattleä.
 
 
+
 Työn tarkoituksena oli selvittää voidaanko luokan koneilla liittyä Rancher ympäristöön ja toimivatko ne moitteettomasti.
+
 
 
 ### Toteutus
@@ -20,6 +22,9 @@ Virtuaalikoneet liittyivät moitteettomasti osaksi Rancher pilveä ja saivat yht
 
 Hostien välisiä yhteyksiä testattiin käyttämällä toimivaksi todettua WordPress konttia.
 
+Virtuaalikoneet liittyivät osaksi cattleä ilman ongelmia ja kommunikoivat keskenään ongelmitta.
+
+
 
 ### Havaitut ongelmat
 
@@ -28,11 +33,13 @@ Koneet menevät lepotilaan 30min kuluessa viimeisestä komennosta, jolloin yhtey
 Hostit kannattaa poistaa  Rancher cattlesta käyttäen masterin selaimella toimivaa interfacea eikä vaan sammuttaa virtuaalikonetta. Rancherin UI menee aivan jumiin kun se yrittää reconnectaa useampaa virtuaalikonetta, joita ei ole enään olemassa.
 
 
+
 ### Yhteenveto
 
 Virtuaalikoneet toimivat moitteemmasti Labranetissä sijaitsevassa Rancher cattlessä. Labranet ei rajoita niiden portteja eikä yhteyksiä toisiinsa. 
 
 Virtuaalikoneet ovat aika heikkotehoisia, mutta soveltuvat mainiosti pieneen demoon ja testaamiseen.
+
 
 
 ### Kuvia
