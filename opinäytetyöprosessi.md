@@ -46,13 +46,12 @@ Työt ja tarvittavat dokumentit tulevat Dropbox-kansion avulla teille jakoon:
 
 https://www.dropbox.com/sh/xyzåäö
 
-8. Maturiteetin kirjotus! 
+### 8. Maturiteetin kirjotus! 
 
 Tein varaukset päivälle x.y.zzzz. Pyrkikää pääsemään tuohon ajankohtaan, koska kirjoitus tapahtuu erikoistyöasemalla, jossa on käyttöaste aika kuumana..
 
-5. Kerros 
+* Paikka 5. Kerros 
+* Varaus x.y.zzzz 9:00-13:00 Muumi 
+* Varaus x.y.zzzz 13:00-17:00 Peikko
 
-x.y.zzzz 9:00-13:00 Muumi 
-x.y.zzzz 13:00-17:00 Peikko
-
-8. Ultimaatti-deadline on dokumentille x+15.y.zzzz! Klo 8:00! (Vain minimaalisia korjauksia!)
+### 8. Ultimaatti-deadline on dokumentille x+15.y.zzzz! Klo 8:00! (Vain minimaalisia korjauksia!)
