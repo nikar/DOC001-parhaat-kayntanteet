@@ -1,8 +1,8 @@
 ## Narsun varasto opinnäytetyön ohjaukseen..
 
- [] Ehdotus
- [] Tsek1
- [] Tsek2
+ * [] Ehdotus
+ * [] Tsek1
+ * [] Tsek2
 
 
 Kun kirjoitusprosessi lähenee loppua! JES!
