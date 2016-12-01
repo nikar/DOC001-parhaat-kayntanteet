@@ -40,6 +40,8 @@ Ensi viikon lopulla olisi hyvä saada tuo tuottamanne teksit Urkund-plagiaattita
 
 Ajattelin, että te voisitte suorittaa vertaisarvioinnin toistenne töistä. Tarvittavat dokumentit löytyvät alla olevasta linkistä..
 
+http://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/Opiskelu/Opinnaytetyo/Arviointi/
+
 ### 6. Työnantajan/tilaajan arviointi
 
 Toimittakaa tuo arviointilomake työnne tilaajalle ja pyytäkää vastaamaan siihe. Vastaukset minulle. 
