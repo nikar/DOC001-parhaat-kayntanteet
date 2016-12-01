@@ -8,7 +8,7 @@
 Kun kirjoitusprosessi lähenee loppua! JES!
 
 
-### 1. Toimittakaa uusin versio mahdollisimman pian meikäläiselle luettavaksi 
+### 1. Eli toimittakaa versio mahdollisimman pian luettavaksi 
 
 Työt olisi hyvä saada kasaan ensi viikon aikana, koska olen reissussa 12-14.12 ja päätöskokous on x.y.zzzz
 
@@ -19,13 +19,13 @@ Valmistelkaa 15 min esitelmä + kalvot aiheena tekemänne lopputyö
 
 Karkea runko:
 
-Taustaa
-Ongelma/haaste
-Ratkaisun hakeminen
-Toteutus
-Tulokset
-Tulevaisuus
-Mitä opin? 
+1. Taustaa
+1. Ongelma/haaste
+1. Ratkaisun hakeminen
+1. Toteutus
+1. Tulokset
+1. Tulevaisuus
+1. Mitä opin? 
 
 
 ### 3. Kansilehdet äidinkielen ja englannin opettajien luettavaksi
