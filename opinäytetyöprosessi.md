@@ -1,5 +1,7 @@
 ## Tilannekatsaus opinnäytetyön ohjaukseen..
 
+![](https://openclipart.org/image/800px/svg_to_png/178039/lambs-at-sunrise.png&disposition=attachment)
+
 * ELI MITÄ TEEN SEURAAVAKSI!
 * 
 
