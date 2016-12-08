@@ -1,21 +1,28 @@
-## Narsun varasto opinnäytetyön ohjaukseen..
-
- * [] Ehdotus
- * [] Tsek1
- * [] Tsek2
+## Tilannekatsaus opinnäytetyön ohjaukseen..
 
 
-Kun kirjoitusprosessi lähenee loppua! JES!
 
 
-### 1. Eli toimittakaa versio mahdollisimman pian luettavaksi 
+### 0. Kansilehdet äidinkielen ja englannin opettajien luettavaksi
 
-Työt olisi hyvä saada kasaan ensi viikon aikana, koska olen reissussa 12-14.12 ja päätöskokous on x.y.zzzz
+Lähettäkää kuvailulehdet / koko työ ko. opettajille (Raija ja Tuula) mielummin ennen seminaaria!
 
-### 2. Oppariseminaari! 
+### 1. Maturiteetin kirjotus! 
 
-Sopiiko ensi viikon perjantai x.y.zzzz? Klo c ? Varaan tilan ö? 
+14.12 Maturiteetit Arttu 9:00-13:00  5. krs kahvio
+14.12 Maturiteettti Riku 13:00-17:00 5. krs kahvio
+15.5 Maturiteetti  Sampo 9:00-13:00  5. krs kahvio
+
+
+### 2. Oppariseminaari! 15.12.2016
+
+Pidämme oppariseminaarit torstaina tilassa D420 Klo 14:15-15:45
+Voitte pyytää paikalle kaikki asiasta kiinnostuneet.  
+
+Tulkaa kaikki paikalle ~14:00
+
 Valmistelkaa 15 min esitelmä + kalvot aiheena tekemänne lopputyö
+
 
 Karkea runko:
 
@@ -28,19 +35,17 @@ Karkea runko:
 1. Mitä opin? 
 
 
-### 3. Kansilehdet äidinkielen ja englannin opettajien luettavaksi
-
-Lähettäkää kuvailulehdet / koko työ ko. opettajille (Raija ja Tuula) mielummin ennen seminaaria!
 
 ### 4.  Urkund-prosessi
 
-Ensi viikon lopulla olisi hyvä saada tuo tuottamanne teksit Urkund-plagiaattitarkistuksen läpi. Tarkastelkaa tekstiänne kriittisesti ja pyrkikää poistamaan suorat lainaukset. Pyritään kirjoittamaan omin sanoin tai merkitkää tehdytä lainaukset.
+Pyrin ajamaan työnne läpi Urkundista viimeistään keskiviikkona! 
 
 ### 5.  Vertaisarviointiprosessi
 
-Ajattelin, että te voisitte suorittaa vertaisarvioinnin toistenne töistä. Tarvittavat dokumentit löytyvät alla olevasta linkistä..
+Riku ja Arttu suorittavat vertaisarvioinnin keskenään. Tarvittavat dokumentit löytyvät alla olevasta linkistä..
 
 http://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/Opiskelu/Opinnaytetyo/Arviointi/
+
 
 ### 6. Työnantajan/tilaajan arviointi
 
@@ -52,12 +57,5 @@ Työt ja tarvittavat dokumentit tulevat Dropbox-kansion avulla teille jakoon:
 
 https://www.dropbox.com/sh/xyzåäö
 
-### 8. Maturiteetin kirjotus! 
 
-Tein varaukset päivälle x.y.zzzz. Pyrkikää pääsemään tuohon ajankohtaan, koska kirjoitus tapahtuu erikoistyöasemalla, jossa on käyttöaste aika kuumana..
-
-* Paikka 5. Kerros 
-* Varaus x.y.zzzz 9:00-13:00 Muumi 
-* Varaus x.y.zzzz 13:00-17:00 Peikko
-
-### 8. Ultimaatti-deadline on dokumentille x+15.y.zzzz! Klo 8:00! (Vain minimaalisia korjauksia!)
+### 8. Ultimaatti-deadline on dokumentille 15.12.2016 Klo 8:00! (Ei enää korjauksia!)
