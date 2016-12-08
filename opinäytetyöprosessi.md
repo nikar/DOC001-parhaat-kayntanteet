@@ -3,11 +3,11 @@
 * ELI MITÄ TEEN SEURAAVAKSI!
 * 
 
-
-
 ### 0. Kansilehdet äidinkielen ja englannin opettajien luettavaksi
 
-Lähettäkää kuvailulehdet / koko työ ko. opettajille (Raija ja Tuula) mielummin ennen seminaaria!
+Lähettäkää työn kuvailulehti (Käytännössä koko työ) äidinkielen/englannin opettajille (Raija ja Tuula) 
+
+*SAMPO Lähetä työ suoraan Raijalle tarkistukseen*
 
 ### 1. Vertaisarviointiprosessi
 
