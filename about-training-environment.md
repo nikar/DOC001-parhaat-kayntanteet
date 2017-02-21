@@ -9,7 +9,7 @@ Käytetyt palvelut
 | Palvelu | Mitä sisältää | Kuka vastaa  | esimerkki |
 |:-:|:-:|:-:|:-:|
 | Github  | Dokumentaatio, tehtäväannot, koodiesimerkit  | Yhteinen JAMK-IT organisaatio ja opettajalla myös oma  |  |
-| Youtube | Tehtäväannot, lyhyet esimerkit |  |  |
+| Youtube | Tehtäväannot, lyhyet esimerkit |  | [Esim. Mikä on asiakastarina](https://www.youtube.com/watch?v=m8WEoyyFUww&t=20s&list=PLOyRnRI1_Cl6JoS3gjoWpEdAZmraX78rb&index=10)  |
 | Youtube-soittolistat  | Esimerkit  |  | [Esim Narsu selittää soittolista kurssille TTOS0100](https://www.youtube.com/playlist?list=PLOyRnRI1_Cl6JoS3gjoWpEdAZmraX78rb)  |
 
 
