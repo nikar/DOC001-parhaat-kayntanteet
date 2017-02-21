@@ -2,6 +2,8 @@
 
 Moi!
 
+![](https://openclipart.org/image/300px/svg_to_png/17129/johnny-automatic-Diogenes-and-Alexander.png&disposition=attachment)
+
 Kirjaan tähän hieman koulutusympäristökokeiluun liittyen tietoa
 
 Käytetyt palvelut
