@@ -1,4 +1,4 @@
-## Etätentti käyntäntö
+## Etätentti ja sen suorittaminen
 
 (Käytössä kursseilla TTOS0100, TTOS0900)
 
@@ -19,3 +19,5 @@
 * Koe palautetaan yhtenä PDF-dokumenttina ohjaajan sähköpostiin
 
 
+Terveisin,
+NarsuMan
