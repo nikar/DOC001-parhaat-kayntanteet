@@ -10,13 +10,13 @@
 
 ## Kokeen rakenne 
 
-
 * Koe poikkeaa normaalista päiväopiskelijan kokeesta (sisältää enemmän tehtäviä)
 
 ## Kokeen suorittaminen
 
-* Sinulla on yleensä aikaa kaksi (2) tuntia palauttaa vastauksesi
-* Voit käyttää konetta ja esim. piirtotyökaluja vastauksessasi
+* Sinulla on yleensä aikaa kaksi (2) tuntia palauttaa vastauksesi  
+* Voit käyttää konetta ja esim. piirtotyökaluja apuna vastausta kirjoittaessasi
+* Älä jätä vastauksia liian yksinkertaisiksi. 
 * Koe palautetaan yhtenä PDF-dokumenttina ohjaajan sähköpostiin
 
 ## Huomioitavaa
