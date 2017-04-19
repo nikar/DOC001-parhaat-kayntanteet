@@ -2,6 +2,8 @@
 
 (Käytössä kursseilla TTOS0100, TTOS0900)
 
+![](https://openclipart.org/image/300px/svg_to_png/274076/Cartoon_Sentinels.png&disposition=attachment)
+
 ## Kokeen aloitus
 
 * Saat kokeen sähköpostina ja kun se saapuu alkaa siitä myös virallinen koeaika
